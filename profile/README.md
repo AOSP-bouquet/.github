@@ -6,7 +6,7 @@ Building AOSP and ***make it works with minimum changes as possible.***
 
 This organization contains changes on **bouquet** devices that needed for building AOSP. ~~(WARNING: SOME CHANGES/REPOS MAYBE MISSING)~~
 
-Some project that currently on progress:
+Some project that currently maintained:
  - hentaiOS
  - ProtonAOSP
  
