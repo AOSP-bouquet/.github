@@ -9,9 +9,8 @@ This organization contains changes on **bouquet** devices that needed for buildi
 Some project that currently maintained:
  - hentaiOS
  - ProtonAOSP
- 
-  ~~- AOSP Master (Soon)~~
+ - AOSP Master (WIP)
 
 To-do list:
  - Make it unified under the same image
- - Optimise it furthere more
+ - Optimise it furthermore
